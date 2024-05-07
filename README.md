@@ -151,11 +151,10 @@ Registeration Number : 212222040179
 
 
 ## OUTPUT
-![IMG-20240314-WA0003](https://github.com/VIKASHAR/lifecyclemethods/assets/119405655/a86fc0ee-c621-4baf-923b-a3ea20ae1260)
-![IMG-20240314-WA0002](https://github.com/VIKASHAR/lifecyclemethods/assets/119405655/43a084a4-ad79-414e-aada-cabee0ac9753)
-![IMG-20240314-WA0004](https://github.com/VIKASHAR/lifecyclemethods/assets/119405655/085a9e0a-5f59-4719-bc09-f65f3e49b76b)
-![IMG-20240314-WA0005](https://github.com/VIKASHAR/lifecyclemethods/assets/119405655/c1614c74-4d54-4708-a42b-05c8ddb4b2e0)
-
+![Screenshot 2024-05-07 174415](https://github.com/VIKASHAR/lifecyclemethods/assets/119405655/345ed162-6cbc-4e1f-881d-e2490418a479)
+![Screenshot 2024-05-07 174434](https://github.com/VIKASHAR/lifecyclemethods/assets/119405655/d8e87d45-b175-442c-90e6-ae2139e15319)
+![Screenshot 2024-05-07 174459](https://github.com/VIKASHAR/lifecyclemethods/assets/119405655/d83b0b87-341d-48ac-998c-eff55ef5f548)
+![Screenshot 2024-05-07 174515](https://github.com/VIKASHAR/lifecyclemethods/assets/119405655/a3c9cc29-6a20-4a4b-ad9c-eb996076e90b)
 
 
 ## RESULT
